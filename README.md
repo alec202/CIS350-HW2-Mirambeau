@@ -15,7 +15,7 @@ used these to make a cleaner, and better chess program than in comparison to if 
 pushed me to learn more, and to think critically about what the code I am writing actually does.
 
 I also have work experience at Geek Squad Best Buy. Here I helped diagnose and trouble shoot clinets PCs and phones. More than that though, I learned a 
-lot about what it means to be apart of a team. Everyone has a different level of experience, knowledge, and comfort with vaarious devices, and as a 
+lot about what it means to be apart of a team. Everyone has a different level of experience, knowledge, and comfort with various devices, and as a 
 result a big part of the job was playing to everyones strengths and what everyone felt confident in troubleshooting/diagnosing.
 
 ### Below is a picture of my favorite meme:
